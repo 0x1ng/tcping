@@ -9,7 +9,7 @@ tcping for mac
 
 好了，开始使用吧！
 
-![tcping](/Users/chenxing/Desktop/tcping/tcping.png)
+![tcping](tcping.png)
 
 
 
