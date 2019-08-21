@@ -5,11 +5,13 @@ tcping for mac
 
 首先git clone 本项目，然后执行以下命令
 
-`cd tcping && cp tcping /usr/local/bin/tcping && chmod 755 /usr/local/bin/tcping` 
+`cd tcping && sudo cp tcping /usr/local/bin/tcping && chmod 755 /usr/local/bin/tcping` 
+
+(部分小伙伴反馈没有/usr/local/bin/目录，先自己创建一下吧 `sudo mkdir /usr/local/bin/` 即可)
 
 好了，开始使用吧！
 
-![tcping](/Users/chenxing/Desktop/tcping/tcping.png)
+![tcping](tcping.png)
 
 
 
